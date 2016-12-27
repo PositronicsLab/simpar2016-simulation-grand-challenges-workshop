@@ -1,0 +1,8 @@
+title: SIMPAR 2016 simulation grand challenges workshop
+description: December 13, San Francisco
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
