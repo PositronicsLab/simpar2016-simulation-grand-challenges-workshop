@@ -1,3 +1,5 @@
+*The SIMPAR 2016 Workshop on the Grand Challenges in Robotic Simulation led to some amazing discussions. Presenter slides are provided below (with permission granted).*
+
 ## Description
 
 After decades of robotic simulations focusing on modeling the dynamics of manipulators, the past decade has seen the introduction and widespread adoption of quality software libraries for simulating the dynamics and sensors of dextrous robots interacting with semi- realistic virtual environments. These libraries, and the algorithms that make them possible, are poised to be the scaffolding that supports virtual prototyping, robust planning, model predictive control, machine learning, and robot testing for the foreseeable future.
@@ -15,31 +17,22 @@ We aim to stimulate discussion between the following participants:
 
 _Those roboticists who require simulations that have proven infeasible or inefficient to model with existing software are particularly encouraged to attend._
 
-## Workshop format
+## Participant list
 
-The workshop will comprise two parts:
-
-1. **Short talks**, in which every participant is given five minutes to talk about their work and five minutes to propose a grand challenge.
-2. **Breakout sessions**, in which sub-groups of participants discuss a predetermined topic before presentation to the larger group.
-
-## Current participant list
-
-* Mihai Anitescu (Argonne National Laboratories)
-* Samuel Burden (University of Washington)
-* Matei Ciocarlie (Columbia University)
+* [Samuel Burden (University of Washington)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Sam-Burden.pptx)
+* [Alejandro Castro (Toyota Research Institute)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Alejandro-Castro.pptx)
 * Erwin Coumans (Google Brain)
 * Sean Curtis (Toyota Research Institute)
 * Evan Drumwright (Toyota Research Institute)
-* Eitan Grinspun (Columbia University)
-* John Hsu (Open Source Robotics Foundation)
-* Gilwoo Lee (Carnegie Mellon University)
-* Ming Lin (University of North Carolina)
-* Shin'ichiro Nakaoka (AIST, developer of Choreonoid)
+* [Gilwoo Lee (Carnegie Mellon University)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Gilwoo-Lee.pdf)
+* [Ming Lin (University of North Carolina)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Ming-Lin.pptx)
+* [Shin'ichiro Nakaoka (AIST, developer of Choreonoid)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Shinichiro-Nakaoka.pdf)
 * Dan Negrut (University of Wisconsin)
 * Jerry Pratt (Institute for Human and Machine Cognition)
 * Alberto Rodgriguez (MIT)
-* Andy Ruina (Cornell)
-* Dylan Shell (Texas A&M)
-* Michael Sherman (Toyota Research Institute)
-* Jeff Trinkle (RPI)
+* [Andy Ruina (Cornell)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Andy-Ruina.pdf)
+* [Dylan Shell (Texas A&M)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Dylan-Shell.pdf)
+* [Michael Sherman (Toyota Research Institute)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Michael-Sherman.pptx)
+* Emo Todorov (University of Washington)
+* [Jeff Trinkle (RPI)](https://github.com/PositronicsLab/simpar2016-simulation-grand-challenges-workshop/presentations/Jeff-Trinkle.pptx)
 
