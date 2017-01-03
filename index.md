@@ -26,7 +26,7 @@ We aimed to stimulate discussion between the following participants:
 * [Ming Lin (University of North Carolina)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Ming-Lin.pptx)
 * [Shin'ichiro Nakaoka (AIST, developer of Choreonoid)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Shinichiro-Nakaoka.pdf)
 * Dan Negrut (University of Wisconsin)
-* Jerry Pratt (Institute for Human and Machine Cognition)
+* [Jerry Pratt (Institute for Human and Machine Cognition)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentation/Jerry-Pratt.pptx)
 * [Alberto Rodgriguez (MIT)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Alberto-Rodriguez.pdf)
 * [Andy Ruina (Cornell)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Andy-Ruina.pdf)
 * [Dylan Shell (Texas A&M)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Dylan-Shell.pdf)
