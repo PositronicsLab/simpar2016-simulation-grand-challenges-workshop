@@ -21,7 +21,7 @@ We aimed to stimulate discussion between the following participants:
 * [Alejandro Castro (Toyota Research Institute)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Alejandro-Castro.pptx)
 * Erwin Coumans (Google Brain)
 * Sean Curtis (Toyota Research Institute)
-* Evan Drumwright (Toyota Research Institute) [workshop introduction](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Evan-Drumwright-intro.pdf) [grand challenge](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Evan-Drumwright-challenge.pdf)
+* Evan Drumwright (Toyota Research Institute) [(workshop introduction)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Evan-Drumwright-intro.pdf) [(grand challenge)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Evan-Drumwright-challenge.pdf)
 * [Gilwoo Lee (Carnegie Mellon University)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Gilwoo-Lee.pdf)
 * [Ming Lin (University of North Carolina)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Ming-Lin.pptx)
 * [Shin'ichiro Nakaoka (AIST, developer of Choreonoid)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Shinichiro-Nakaoka.pdf)
