@@ -19,6 +19,7 @@ We aimed to stimulate discussion between the following participants:
 
 * [Samuel Burden (University of Washington)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Sam-Burden.pptx)
 * [Alejandro Castro (Toyota Research Institute)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Alejandro-Castro.pptx)
+* Nilanjan Chakraborty (Stony Brook University)
 * Erwin Coumans (Google Brain)
 * Sean Curtis (Toyota Research Institute)
 * Evan Drumwright (Toyota Research Institute) [(workshop introduction)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Evan-Drumwright-intro.pdf) [(grand challenge)](https://positronicslab.github.io/simpar2016-simulation-grand-challenges-workshop/presentations/Evan-Drumwright-challenge.pdf)
